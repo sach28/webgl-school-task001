@@ -1,1 +1,1 @@
-# webgl-school-task001
+# WebGLスクール10期　第1回課題
