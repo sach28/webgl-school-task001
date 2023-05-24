@@ -1,0 +1,36 @@
+* {
+	margin: 0; padding: 0;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	font-size: 1.6rem;
+}
+
+#webgl {
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: -1;
+}
+
+.c-head01 {
+	color: #3a3a3a;
+	font-family: 'Roboto', sans-serif;
+	font-size: 4.8rem;
+	font-weight: 700;
+	padding: 30px;
+}
+
+.c-link01 {
+	position: fixed;
+	bottom: 16px;
+	right: 16px;
+	display: block;
+	height: 30px;
+	width: 30px;
+	margin-top: 8px;
+}
